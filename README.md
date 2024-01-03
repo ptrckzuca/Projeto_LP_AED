@@ -46,4 +46,4 @@
 # Funcionalidades parcialmente implementadas:
 
 # //PONTO 9: Listas ligadas.
-#O grupo fez a implementação parcial das listas ligadas no projeto anexado. Porém, o grupo apresentou dificuldades em implentar funções de teste cliente.
+# O grupo fez a implementação parcial das listas ligadas no projeto anexado. Porém, o grupo apresentou dificuldades em implentar funções de teste cliente.
